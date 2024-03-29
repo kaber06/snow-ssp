@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Sales Cloud">0c78bb77474502104bc22458c26d4380</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 07:23:59</sys_created_on>
+        <sys_id>07ea737b474502104bc22458c26d437d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Sales Cloud</sys_name>
+        <sys_package display_value="Service Portal Cloud" source="x_724352_service_0">5528eb33470502104bc22458c26d4370</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal Cloud">5528eb33470502104bc22458c26d4370</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_07ea737b474502104bc22458c26d437d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 07:23:59</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Portal Cloud">5528eb33470502104bc22458c26d4370</application>
+        <file_path/>
+        <instance_id>392d727adb43bb448aea21c4059619b7</instance_id>
+        <instance_name>dev90992</instance_name>
+        <name>sc_cat_item_catalog_07ea737b474502104bc22458c26d437d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Sales Cloud">0c78bb77474502104bc22458c26d4380</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-27 07:23:59</sys_created_on><sys_id>07ea737b474502104bc22458c26d437d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Sales Cloud</sys_name><sys_package display_value="Service Portal Cloud" source="x_724352_service_0">5528eb33470502104bc22458c26d4370</sys_package><sys_policy/><sys_scope display_value="Service Portal Cloud">5528eb33470502104bc22458c26d4370</sys_scope><sys_update_name>sc_cat_item_catalog_07ea737b474502104bc22458c26d437d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-27 07:23:59</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1033440569</payload_hash>
+        <record_name>Service Catalog.Sales Cloud</record_name>
+        <reverted_from/>
+        <source>d528eb33470502104bc22458c26d4374</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 07:23:59</sys_created_on>
+        <sys_id>0bea737b474502104bc22458c26d4380</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e7ecb5a3b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 07:23:59</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>4bea737bb6450210f5b002c1ef084d7f</update_guid>
+        <update_guid_history>4bea737bb6450210f5b002c1ef084d7f:1033440569</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Sales Cloud">301b377b474502104bc22458c26d43b1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 07:24:39</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>365bd6e1ee1b41b49327bb0c88da0c79</sys_id>
+        <sys_metadata>07ea737b474502104bc22458c26d437d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Sales Cloud</sys_name>
+        <sys_package display_value="Service Portal Cloud" source="x_724352_service_0">5528eb33470502104bc22458c26d4370</sys_package>
+        <sys_parent display_value="Activation ">0c78bb77474502104bc22458c26d4380</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal Cloud">5528eb33470502104bc22458c26d4370</sys_scope>
+        <sys_scope_delete display_value="">000c8ea469d44ac085b452c2ba269440</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_07ea737b474502104bc22458c26d437d</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_07ea737b474502104bc22458c26d437d">0bea737b474502104bc22458c26d4380</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 07:24:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

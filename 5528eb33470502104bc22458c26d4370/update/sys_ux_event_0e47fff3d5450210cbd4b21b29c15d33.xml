@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>MODAL_SELECTED_RELAY_4a47fff3cf450210b12b06e96e321f61</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Toggle Modal Relay</label>
+        <props>[{"name":"modalId","label":"Modal","fieldType":"string","interfaceApiName":"global.modal","valueType":"string"},{"name":"showModal","label":"Show Modal","fieldType":"boolean","valueType":"string"},{"name":"displayOptions","label":"Modal display options","fieldType":"json","valueType":"string"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-27 07:08:06</sys_created_on>
+        <sys_id>0e47fff3d5450210cbd4b21b29c15d33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Toggle Modal Relay</sys_name>
+        <sys_package display_value="Service Portal Cloud" source="x_724352_service_0">5528eb33470502104bc22458c26d4370</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal Cloud">5528eb33470502104bc22458c26d4370</sys_scope>
+        <sys_update_name>sys_ux_event_0e47fff3d5450210cbd4b21b29c15d33</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-27 07:08:06</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=0e47fff3d5450210cbd4b21b29c15d33"/>
+</record_update>

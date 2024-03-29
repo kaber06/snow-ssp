@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">4247fff312450210b81ba7c63196233e</dataset>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">4a47fff351450210c6795c793af87f39</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-27 07:08:08</sys_created_on>
+        <sys_id>8247fff33b4502104b6927ee2ad0eb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Portal Cloud" source="x_724352_service_0">5528eb33470502104bc22458c26d4370</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal Cloud">5528eb33470502104bc22458c26d4370</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_8247fff33b4502104b6927ee2ad0eb3a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-27 07:08:08</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

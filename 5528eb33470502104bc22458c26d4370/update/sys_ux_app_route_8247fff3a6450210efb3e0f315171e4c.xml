@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Custom Portal App Config">3947fff3474502104bc22458c26d4309</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Additional Details</name>
+        <optional_parameters/>
+        <order>200</order>
+        <parent_macroponent display_value="Record Page(task)">8247fff3494502100804092be6a31c5f</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_task_additional</route_type>
+        <screen_type display_value="Additional Details">0e47fff3f6450210a190fe4bb104c74b</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-27 07:08:08</sys_created_on>
+        <sys_id>8247fff3a6450210efb3e0f315171e4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Additional Details</sys_name>
+        <sys_package display_value="Service Portal Cloud" source="x_724352_service_0">5528eb33470502104bc22458c26d4370</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal Cloud">5528eb33470502104bc22458c26d4370</sys_scope>
+        <sys_update_name>sys_ux_app_route_8247fff3a6450210efb3e0f315171e4c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-27 07:08:08</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=8247fff3a6450210efb3e0f315171e4c"/>
+</record_update>
