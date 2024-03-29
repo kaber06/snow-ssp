@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Service Azure Blob">78d04964471982104bc22458c26d4322</sc_cat_item>
+        <sc_category display_value="Managed Cloud">021c377b474502104bc22458c26d4335</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-29 01:47:03</sys_created_on>
+        <sys_id>0bf04d64471982104bc22458c26d43bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Managed Cloud.Service Azure Blob</sys_name>
+        <sys_package display_value="Service Portal Cloud" source="x_724352_service_0">5528eb33470502104bc22458c26d4370</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal Cloud">5528eb33470502104bc22458c26d4370</sys_scope>
+        <sys_update_name>sc_cat_item_category_0bf04d64471982104bc22458c26d43bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-29 01:47:03</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Portal Cloud">5528eb33470502104bc22458c26d4370</application>
+        <file_path/>
+        <instance_id>392d727adb43bb448aea21c4059619b7</instance_id>
+        <instance_name>dev90992</instance_name>
+        <name>sc_cat_item_category_0bf04d64471982104bc22458c26d43bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Service Azure Blob">78d04964471982104bc22458c26d4322</sc_cat_item><sc_category display_value="Managed Cloud">021c377b474502104bc22458c26d4335</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-29 01:47:03</sys_created_on><sys_id>0bf04d64471982104bc22458c26d43bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Managed Cloud.Service Azure Blob</sys_name><sys_package display_value="Service Portal Cloud" source="x_724352_service_0">5528eb33470502104bc22458c26d4370</sys_package><sys_policy/><sys_scope display_value="Service Portal Cloud">5528eb33470502104bc22458c26d4370</sys_scope><sys_update_name>sc_cat_item_category_0bf04d64471982104bc22458c26d43bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-29 01:47:03</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>872343900</payload_hash>
+        <record_name>Managed Cloud.Service Azure Blob</record_name>
+        <reverted_from/>
+        <source>1a0fb0a0471982104bc22458c26d43dd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-29 01:47:03</sys_created_on>
+        <sys_id>47f04d64471982104bc22458c26d43c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e87e396bc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-29 01:47:03</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>47f04d6429198210199652716c4a2dbf</update_guid>
+        <update_guid_history>47f04d6429198210199652716c4a2dbf:872343900</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Managed Cloud.Service Azure Blob">7f2181a4471982104bc22458c26d43a6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-29 01:47:55</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>4039f303fbcd4ffcb27dfc5c66a9ef10</sys_id>
+        <sys_metadata>0bf04d64471982104bc22458c26d43bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Managed Cloud.Service Azure Blob</sys_name>
+        <sys_package display_value="Service Portal Cloud" source="x_724352_service_0">5528eb33470502104bc22458c26d4370</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal Cloud">5528eb33470502104bc22458c26d4370</sys_scope>
+        <sys_scope_delete display_value="">000c8ea469d44ac085b452c2ba269440</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_0bf04d64471982104bc22458c26d43bb</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_0bf04d64471982104bc22458c26d43bb">47f04d64471982104bc22458c26d43c0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-29 01:47:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
