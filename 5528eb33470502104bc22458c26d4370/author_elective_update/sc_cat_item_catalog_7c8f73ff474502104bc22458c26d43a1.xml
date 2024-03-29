@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Termination">216fbfbf474502104bc22458c26d4356</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 07:44:02</sys_created_on>
+        <sys_id>7c8f73ff474502104bc22458c26d43a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Termination</sys_name>
+        <sys_package display_value="Service Portal Cloud" source="x_724352_service_0">5528eb33470502104bc22458c26d4370</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal Cloud">5528eb33470502104bc22458c26d4370</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_7c8f73ff474502104bc22458c26d43a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 07:44:02</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Portal Cloud">5528eb33470502104bc22458c26d4370</application>
+        <file_path/>
+        <instance_id>392d727adb43bb448aea21c4059619b7</instance_id>
+        <instance_name>dev90992</instance_name>
+        <name>sc_cat_item_catalog_7c8f73ff474502104bc22458c26d43a1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Termination">216fbfbf474502104bc22458c26d4356</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-27 07:44:02</sys_created_on><sys_id>7c8f73ff474502104bc22458c26d43a1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Termination</sys_name><sys_package display_value="Service Portal Cloud" source="x_724352_service_0">5528eb33470502104bc22458c26d4370</sys_package><sys_policy/><sys_scope display_value="Service Portal Cloud">5528eb33470502104bc22458c26d4370</sys_scope><sys_update_name>sc_cat_item_catalog_7c8f73ff474502104bc22458c26d43a1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-27 07:44:02</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1061149013</payload_hash>
+        <record_name>Service Catalog.Termination</record_name>
+        <reverted_from/>
+        <source>d528eb33470502104bc22458c26d4374</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 07:44:02</sys_created_on>
+        <sys_id>f08f73ff474502104bc22458c26d43a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e7eddb4130000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 07:44:02</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>348f73ffa24502108803b367439e1ea4</update_guid>
+        <update_guid_history>348f73ffa24502108803b367439e1ea4:-1061149013</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Termination">7a8fb3ff474502104bc22458c26d4368</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 07:44:10</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>055d90927b9f4480813023c4521f1000</sys_id>
+        <sys_metadata>7c8f73ff474502104bc22458c26d43a1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Termination</sys_name>
+        <sys_package display_value="Service Portal Cloud" source="x_724352_service_0">5528eb33470502104bc22458c26d4370</sys_package>
+        <sys_parent display_value="Termination">216fbfbf474502104bc22458c26d4356</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal Cloud">5528eb33470502104bc22458c26d4370</sys_scope>
+        <sys_scope_delete display_value="">000c8ea469d44ac085b452c2ba269440</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_7c8f73ff474502104bc22458c26d43a1</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_7c8f73ff474502104bc22458c26d43a1">f08f73ff474502104bc22458c26d43a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 07:44:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
